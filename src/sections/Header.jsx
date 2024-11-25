@@ -63,7 +63,7 @@ const Header = () => {
                 <li className="nav-li">
                   <NavLink title="features"></NavLink>{" "}
                   <div className="dot"></div>
-                  <NavLink title="pricing "></NavLink>{" "}
+                  <NavLink title="pricing"></NavLink>{" "}
                 </li>
                 <li className="nav-logo">
                   <LinkScroll
